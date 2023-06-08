@@ -5,7 +5,7 @@ O método que estava sendo usado para gerir o projeto, de cascata (diagramas de 
 
 Devido aos resultados com a gestão tradicional em cascata, e tentando salvar o projeto e realizar a entrega, foi decidido usar o Scrum. Os ajustes foram feitos.
 
-Como Jeff Sutherland menciona no livro Scrum - A arte de fazer o dobro na metade do tempo, O Scrum funciona com a definição de objetivos sequenciais que devem ser atingidos em um intervalo definido. No caso do FBI, eles optaram por ciclos de duas semanas com a compreensão de que, ao final de cada um desses intervalos, haveria uma parte *concluída* do produto. Algo que estivesse funcionando, algo que pudesse ser mostrado para qualquer um que quisesse ver, principalmente para os Stakeholders e os futuros usuários do sistema.
+Como Jeff Sutherland menciona no livro Scrum - A arte de fazer o dobro na metade do tempo, o Scrum funciona com a definição de objetivos sequenciais que devem ser atingidos em um intervalo definido. No caso do FBI, eles optaram por ciclos de duas semanas com a compreensão de que, ao final de cada um desses intervalos, haveria uma parte *concluída* do produto. Algo que estivesse funcionando, algo que pudesse ser mostrado para qualquer um que quisesse ver, principalmente para os Stakeholders e os futuros usuários do sistema.
 
 Essa metodologia permite que as equipes recebam um feedback quase imediato do trabalho realizado, e podem avaliar se estão caminhando na direção certa ou se precisam fazer ajustes, depois de considerarem tudo o que descobriram durante o ciclo (chamados de sprints) anterior.
 
